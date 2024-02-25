@@ -2,7 +2,7 @@
 
 Carbon footprint refers to the total amount of greenhouse gases, particularly carbon dioxide (CO2), that are emitted directly or indirectly by an individual, organization, event, product, or service. These emissions contribute to climate change by trapping heat in the Earth's atmosphere, leading to global warming and associated environmental impacts.
 
-## Your carbon footprint 👣 👣
+## Your carbon footprint includes: 👣 👣
 
 Family size👨‍👩‍👧
 
@@ -17,7 +17,7 @@ Laundry 👕
 Waste generation 🛍️               and many more....
 
 
-# "So we all should know about our footprint and should reduce it"
+# "So we all should know about our carbon footprint and should reduce it"
 
 
 
