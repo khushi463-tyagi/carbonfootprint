@@ -40,3 +40,6 @@ Support sustainable products and businesses:
 
 ‣ Choose products with minimal environmental impact and support companies committed to sustainability.
 
+
+
+![Screenshot 2024-02-25 134910](https://github.com/khushi463-tyagi/carbonfootprint/assets/66127538/9be45624-b678-402a-a91b-181cd382841b)
