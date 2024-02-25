@@ -42,12 +42,20 @@ Support sustainable products and businesses:
 
 
 
+
+### Home Page
+
+
 ![Screenshot 2024-02-25 134910](https://github.com/khushi463-tyagi/carbonfootprint/assets/66127538/9be45624-b678-402a-a91b-181cd382841b)
 
 ![Screenshot 2024-02-25 135550](https://github.com/khushi463-tyagi/carbonfootprint/assets/66127538/e7bf3f0a-3f6d-4c1a-b997-f61d659dc246)
 
+### Details to be filled
+
 ![Screenshot 2024-02-25 140005](https://github.com/khushi463-tyagi/carbonfootprint/assets/66127538/76e2d177-3e30-4211-92c0-ca6b525c5990)
 
 ![Screenshot 2024-02-25 140020](https://github.com/khushi463-tyagi/carbonfootprint/assets/66127538/3fbedb05-e247-4476-942e-37327e37fac0)
+
+### Result page
 
 ![Screenshot 2024-02-25 140032](https://github.com/khushi463-tyagi/carbonfootprint/assets/66127538/c697fd05-0731-4f7b-a173-d701829597cc)
